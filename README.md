@@ -4,6 +4,8 @@
 
 Allows GMs to set a GM-only background image.
 
+This is death-save's work.  I'm just adding a quick fix.
+
 ## Usage
 Open the Scene Configuration form and set a GM background using the filepicker:
 
