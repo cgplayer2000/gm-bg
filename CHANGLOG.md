@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 N/A
+## [0.1.3] - 2020-10-03
+### Changed
+  - updated to fix small error
 
 ## [0.1.2] - 2020-04-29
 ### Changed
